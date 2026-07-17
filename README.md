@@ -6,7 +6,7 @@ Custom animated pets for Codex. Each pet is packaged as a v2 `8 × 11` spriteshe
 
 ### Linwan
 
-一个沉着、优雅的办公室秘书型伴侣，负责把任务整理得井井有条。
+一个沉着、优雅的办公室秘书型伴侣，负责把任务整理得井井有条。以下预览由当前发布的图集直接导出。
 
 ![Linwan running right](previews/linwan/running-right.gif)
 ![Linwan running left](previews/linwan/running-left.gif)
